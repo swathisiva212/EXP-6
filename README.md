@@ -15,8 +15,6 @@ CIRCUIT DIAGRAM
 
 <img width="1317" height="763" alt="image" src="https://github.com/user-attachments/assets/da5a3feb-07e1-4698-af2e-0c0c911d42a2" />
 <img width="1315" height="761" alt="image" src="https://github.com/user-attachments/assets/6ddfa727-9a60-4aa2-92c5-a2e9318e0fdf" />
-![WhatsApp Image 2025-11-03 at 22 30 34_4188344b](https://github.com/user-attachments/assets/9477df28-bb93-4681-bbd7-c763d4ec8d41)
-![WhatsApp Image 2025-11-03 at 22 30 35_413d9030](https://github.com/user-attachments/assets/c40d3847-bbc9-47c4-be95-b7084fb66409)
 
 
 PROCEDURE: -
@@ -25,6 +23,10 @@ I. Connect the multimeter at the output of kit..
 3. More the gauge from zero to maximum of 20mm.
 4. Value and note the corresponding values of voltages in the multimeter.
 5. Plot the graph between displacement and voltages on the graph paper.
+
+![WhatsApp Image 2025-11-03 at 22 30 34_10b96898](https://github.com/user-attachments/assets/33635524-f4bf-4322-a20f-abbcbf2f8754)
+![WhatsApp Image 2025-11-03 at 22 30 35_74865142](https://github.com/user-attachments/assets/a5cc63c0-8a40-43b0-bf47-db53ef628c4a)
+
 
 
 OBSERVATION TABLE
